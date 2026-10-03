@@ -74,6 +74,7 @@ The checksum must exactly match the value in the release's `SHA256SUMS` file.
 
 - [Official website](https://sidekite.zhosix.com/)
 - [Privacy policy](https://sidekite.zhosix.com/privacy)
+- Support and security: `sidekite@zhosix.com`
 
 ---
 
@@ -149,3 +150,4 @@ Get-FileHash .\LinkFlow_2.0.6.ipa -Algorithm SHA256
 
 - [官方网站](https://sidekite.zhosix.com/)
 - [隐私政策](https://sidekite.zhosix.com/privacy)
+- 支持与安全问题：`sidekite@zhosix.com`
