@@ -76,6 +76,19 @@ The checksum must exactly match the value in the release's `SHA256SUMS` file.
 - [Privacy policy](https://sidekite.zhosix.com/privacy)
 - Support and security: `sidekite@zhosix.com`
 
+### Community
+
+- [QQ community · 1045595997](https://qun.qq.com/universal-share/share?ac=1&authKey=68WjRxihKNF6h0Tiy3YRf38laumuG2iWqSZrljs%2FDKwlbXh3VdjMIr8sh6Q265Cx&busi_data=eyJncm91cENvZGUiOiIxMDQ1NTk1OTk3IiwidG9rZW4iOiIzR09ZT2t5OUNha2NUN1J3OUNTalBxaUJ2ZU13NW9QakNidDJRRWdRZnp5VmxidzBuWGNxRUpIUFN6QUR2MVVtIiwidWluIjoiOTE3NjM5OTUwIn0%3D&data=OaVYdY30H8XnRS8e4AAQ-WCIXe6GHpc23EtL1risW5EbjS003_o-Qvx90Ldgqm9eRgi1DVQ247bltYfuoLXR1A&svctype=4&tempid=h5_group_info)
+- [Telegram community · @sidekitezhosix](https://t.me/sidekitezhosix)
+
+### Support the project
+
+Sponsorship is entirely voluntary. Thank you for supporting ongoing development and maintenance.
+
+- [WeChat](https://sidekite.zhosix.com/assets/sponsor/wechat-sponsor.png) — view the sponsorship QR code.
+- [Alipay](https://qr.alipay.com/2m6148879y1ivwkicusrh9e) — open the payment page.
+- [PayPal](https://ko-fi.com/zhosix) — via Ko-fi.
+
 ---
 
 ## 简体中文
@@ -151,3 +164,16 @@ Get-FileHash .\LinkFlow_2.0.6.ipa -Algorithm SHA256
 - [官方网站](https://sidekite.zhosix.com/)
 - [隐私政策](https://sidekite.zhosix.com/privacy)
 - 支持与安全问题：`sidekite@zhosix.com`
+
+### 官方社群
+
+- [QQ 交流群 · 1045595997](https://qun.qq.com/universal-share/share?ac=1&authKey=68WjRxihKNF6h0Tiy3YRf38laumuG2iWqSZrljs%2FDKwlbXh3VdjMIr8sh6Q265Cx&busi_data=eyJncm91cENvZGUiOiIxMDQ1NTk1OTk3IiwidG9rZW4iOiIzR09ZT2t5OUNha2NUN1J3OUNTalBxaUJ2ZU13NW9QakNidDJRRWdRZnp5VmxidzBuWGNxRUpIUFN6QUR2MVVtIiwidWluIjoiOTE3NjM5OTUwIn0%3D&data=OaVYdY30H8XnRS8e4AAQ-WCIXe6GHpc23EtL1risW5EbjS003_o-Qvx90Ldgqm9eRgi1DVQ247bltYfuoLXR1A&svctype=4&tempid=h5_group_info)
+- [Telegram 交流群 · @sidekitezhosix](https://t.me/sidekitezhosix)
+
+### 赞助支持
+
+赞助完全自愿，感谢你支持项目持续开发与维护。
+
+- [微信](https://sidekite.zhosix.com/assets/sponsor/wechat-sponsor.png) — 查看赞赏码。
+- [支付宝](https://qr.alipay.com/2m6148879y1ivwkicusrh9e) — 打开收款页面。
+- [PayPal](https://ko-fi.com/zhosix) — 通过 Ko-fi 赞助。
